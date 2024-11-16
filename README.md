@@ -1,7 +1,3 @@
-Here’s an updated version of your README that incorporates more interactive and user-friendly elements, specifically designed for GitHub. It includes clear sections, clickable links, a table of contents, and better formatting with GitHub-flavored markdown to make the README visually appealing and easy to navigate.
-
----
-
 # Quiz Web Application
 
 A fun and interactive web-based quiz app that lets users test their knowledge in HTML, CSS, and JavaScript. Select a programming language, answer questions, and get real-time feedback!
@@ -71,7 +67,7 @@ To get this app running locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/quiz-web-application.git
+   git clone https://github.com/AfjalAura9/quiz-web-application.git
    ```
 
 2. **Navigate to the project directory**:
@@ -152,10 +148,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Note
 
-- **Replace** the repository link (`https://github.com/your-username/quiz-web-application.git`) with your actual GitHub repository URL.
+- **Replace** the repository link (`https://github.com/AfjalAura9/quiz-web-application.git`) with your actual GitHub repository URL.
 - Make sure to include screenshots of your app to provide a visual preview for others.
 - If you use additional resources like libraries or frameworks, you can mention them in the "Technologies Used" section.
 
 ---
-
-This format is both user-friendly and suitable for GitHub, with clickable links and visually appealing sections. It is structured in a way that allows both developers and non-developers to easily understand and interact with your project.
