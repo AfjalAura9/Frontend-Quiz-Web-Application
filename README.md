@@ -119,7 +119,7 @@ Example structure of a question object:
 
 Here are some screenshots of the app in action:
 
-![Quiz App Screenshot](assets/screenshot1.png)
+![Landing page](screenshots/Landing_page.jpg)
 *Interactive quiz screen showing questions and answers.*
 
 ![Results Screen](assets/screenshot2.png)
