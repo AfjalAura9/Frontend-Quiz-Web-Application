@@ -1,4 +1,4 @@
-# Quiz Web Application
+# Frontend-Quiz-Web-Application
 
 A fun and interactive web-based quiz app that lets users test their knowledge in HTML, CSS, and JavaScript. Select a programming language, answer questions, and get real-time feedback!
 
